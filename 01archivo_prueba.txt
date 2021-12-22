@@ -1,1 +1,2 @@
 01 ver cambio de git status
+02 otro cambio en el archivo
