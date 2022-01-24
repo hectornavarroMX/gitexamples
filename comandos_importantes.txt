@@ -12,3 +12,4 @@ git pull origin BRANCH
 
 git revert COMMIT
 
+test revert
