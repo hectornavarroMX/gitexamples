@@ -23,3 +23,5 @@ unir ramas
 
 eliminar rama
 git branch -d nombrerama
+
+solucion conflictos merge main
