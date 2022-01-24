@@ -11,3 +11,15 @@ git reglog
 git pull origin BRANCH
 
 git revert COMMIT
+
+crear rama
+git branch nombrerama
+
+cambiar rama
+git checkout nombrerama
+
+unir ramas
+
+
+eliminar rama
+git branch -d nombrerama
