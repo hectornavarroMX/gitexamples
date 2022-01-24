@@ -1,7 +1,7 @@
 cambiar nombre rama
 git branch -m master main
 
-git config --global init.defaultBranch master
+git config --global init.defaultBranch main
 
 git reset COMMIT
 git reset --hard COMMIT
@@ -25,3 +25,15 @@ eliminar rama
 git branch -d nombrerama
 
 solucion conflictos merge nuevarama
+
+tags
+git tag versionAlpha -m "0.0.1"
+
+borrar tag
+git tag -d nombretag
+
+hacer tag en un commit anterior
+git tag -a nombreTag d542c0(commit) -m "version beta"
+
+mostrar informacion del tag
+git show nombreTag
